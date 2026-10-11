@@ -1,0 +1,29 @@
+# Archivos/Carpetas temporales y compilados por Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Archivos de solución e IDEs (Visual Studio, Rider, VS Code)
+/.vs/
+/.idea/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.VC.db
+
+# SO / Archivos del sistema
+.DS_Store
+Thumbs.db
